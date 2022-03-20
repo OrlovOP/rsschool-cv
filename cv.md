@@ -1,11 +1,12 @@
 # CV
 ## Oleg Orlov
+![OrlovOP](C:\My\Downloads\Orlov.jpeg)
 # PContact information:
-  * Cell phone no: +71234567890
-  * email: olav@example.com
+  * Cell phone no: +79110313364
+  * email: olav@yandex.ru
 _______________________________________________
-## Junior front-end developer
-# Objectives: Job as front-end developoer.
+>
+# Objectives: Job as frontend developoer.
 
 # Edication:
  * Murmansk state technical university
@@ -18,14 +19,23 @@ _______________________________________________
  * Git, GitHub
 
 # Code examples:
-
-
+```
+import math
+def nb_year(p0, percent, aug, p):
+    y=0
+    while  p0 < p:
+        p0 = p0 + p0 * percent/100 + aug
+        p0 = math.floor(p0)
+        y +=1
+    return (y)
+```
+*****************************************************
 # Breefly about me:
-I started my carier in IT as system engineer at 1997.
-/n/n
-6 Years later was working ad database administrator.
-/n/n
-Since 2009 i was employed as project manager.
+>I started my carier in IT as system engineer at 1997.
+>
+>6 Years later was working ad database administrator.
+>
+>Since 2009 i was employed as project manager.
 
 # Languages:
  * Russian - Native
