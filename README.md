@@ -1,2 +1,3 @@
 # rsschool-cv
-My public rsschool repository
+#Orlov Oleg.
+
