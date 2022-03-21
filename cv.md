@@ -6,7 +6,7 @@
   * email: olav@yandex.ru
 _______________________________________________
 >
-## Objectives: Job as frontend developoer.
+## Objectives: get a job as a frontend developer.
 
 ## Education:
  * Murmansk state technical university
