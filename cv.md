@@ -1,7 +1,8 @@
 # CV
 ## Oleg Orlov
-![OrlovOP](\orlov.jpeg)
-# PContact information:
+![OrlovOP](/orlov.jpg)
+>
+## Contact information:
   * Cell phone no: +79110313364
   * email: olav@yandex.ru
 _______________________________________________
