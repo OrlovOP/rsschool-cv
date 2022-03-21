@@ -1,3 +1,3 @@
 # rsschool-cv
-https://github.com/OrlovOP/rsschool-cv/blob/05df4bdcab5f849a7e2dbfa93d482bf4b2b4b839/cv.md
+https://github.com/OrlovOP/rsschool-cv/blob/919c9680bacc3da62168247550b7c1ba1824bbcf/cv.md
 
