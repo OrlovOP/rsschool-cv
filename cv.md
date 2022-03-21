@@ -1,17 +1,17 @@
 # CV
 ## Oleg Orlov
-![OrlovOP](C:\My\Downloads\Orlov.jpeg)
+![OrlovOP](\orlov.jpeg)
 # PContact information:
   * Cell phone no: +79110313364
   * email: olav@yandex.ru
 _______________________________________________
 >
-# Objectives: Job as frontend developoer.
+## Objectives: Job as frontend developoer.
 
-# Edication:
+## Education:
  * Murmansk state technical university
  * Tomsk state university
-# My professional skills:
+## My professional skills:
  * HTML
  * CSS
  * Java script
