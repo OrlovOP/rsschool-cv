@@ -1,6 +1,6 @@
 # CV
 ## Oleg Orlov
-![OrlovOP](/orlov.jpg)
+![OrlovOP](/Orlov.jpg)
 >
 ## Contact information:
   * Cell phone no: +79110313364
